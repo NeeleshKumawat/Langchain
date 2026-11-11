@@ -1,0 +1,15 @@
+Acme Corp Leave Policy
+
+Annual Leave:
+Every employee gets 18 days of annual leave per year.
+Leave must be applied 7 days in advance.
+Unused leave can be carried forward up to 5 days only.
+
+Sick Leave:
+Employees get 10 sick leaves per year.
+Medical certificate required for more than 2 consecutive sick days.
+
+Work From Home Policy:
+Employees can work from home 2 days per week.
+WFH must be approved by the reporting manager.
+WFH is not allowed on Mondays and Fridays.
